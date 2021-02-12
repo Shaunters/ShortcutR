@@ -1,1 +1,3 @@
-snippets = [["@@", "tpimentel368@gmail.com"]]
+snippets = [
+            ["EXAMPLE_NAME", "EXAMPLE_TEXT_TO_REPLACE"]
+            ]
